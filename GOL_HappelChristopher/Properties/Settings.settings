@@ -1,0 +1,24 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="GOL_HappelChristopher.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="CellColor" Type="System.Drawing.Color" Scope="User">
+      <Value Profile="(Default)">BlueViolet</Value>
+    </Setting>
+    <Setting Name="BGColor" Type="System.Drawing.Color" Scope="User">
+      <Value Profile="(Default)">CadetBlue</Value>
+    </Setting>
+    <Setting Name="XMax" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">10</Value>
+    </Setting>
+    <Setting Name="YMax" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">10</Value>
+    </Setting>
+    <Setting Name="SimSpeed" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">500</Value>
+    </Setting>
+    <Setting Name="GridColor" Type="System.Drawing.Color" Scope="User">
+      <Value Profile="(Default)">Black</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
